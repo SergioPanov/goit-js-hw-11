@@ -2,7 +2,7 @@ import Notiflix from 'notiflix';
 import axios from 'axios';
 
 const BASE_URL = 'https://pixabay.com/api/';
-const API_KEY = '35889291-72d22f1b5530e86f5c1dc0b10';
+const API_KEY = '13068223-8bb759187c099f4c8af2a9020';
 
 export async function queryFetch(name, page) {
   try {
